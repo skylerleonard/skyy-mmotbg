@@ -1,0 +1,5 @@
+FROM: welcome@admin.net
+TO: sk@newbie.net
+SUBJECT: Welcome!
+MESSAGE:
+	Welcome to the game!

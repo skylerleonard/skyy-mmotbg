@@ -1,0 +1,5 @@
+FROM: welcome@admin.net
+TO: test@newbie.net
+SUBJECT: Welcome!
+MESSAGE:
+	Welcome to the game!
